@@ -1,0 +1,12 @@
+Павел Тесленко
+git push -u main
+
+20:33
+The current branch main has no upstream branch.
+
+20:34
+Максим Епифанов
+git push -u origin main
+
+21:17
+git pull origin branchname --allow-unrelated-histories
